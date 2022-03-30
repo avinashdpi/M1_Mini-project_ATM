@@ -1,9 +1,9 @@
 /**
  * @file main.c
- * @author Bhavya Thotakura
+ * @author Avinash
  * @brief 
  * @version 0.1
- * @date 2021-09-06
+ * @date 2022-03-30
  * 
  * @copyright Copyright (c) 2021
  * 
