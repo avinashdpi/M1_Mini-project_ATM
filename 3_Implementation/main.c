@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author Avinash
+ * @author Avinash.B
  * @brief 
  * @version 0.1
  * @date 2022-03-30
