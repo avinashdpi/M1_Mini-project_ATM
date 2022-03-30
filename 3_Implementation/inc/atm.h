@@ -1,6 +1,6 @@
 /**
  * @file atm.h
- * @author Bhavya Thotakura
+ * @author Avinash.B
  * @brief 
  * @version 0.1
  * @date 2021-09-06
