@@ -2,13 +2,9 @@
 # Stepin_Miniproject
 
 # SDLC LEARNING
-![Screenshot (42)](https://user-images.githubusercontent.com/101548454/160989679-e6cc4538-ad37-4c93-86de-52ce591bee13.png)
-
-
-
-![Screenshot (44)](https://user-images.githubusercontent.com/101548454/160989713-3d69bb81-f89d-4dbe-8024-14b600bac1f1.png)
-
-![Screenshot (45)](https://user-images.githubusercontent.com/101548454/160989740-878d2fe0-67e6-488a-a933-a683c8da63eb.png)
+ BUILD   |    CODE QUALITY     |   UNITY   | GIT INSPECTOR    
+----------|-------------------|-----------|-----------------
+![Screenshot (42)](https://user-images.githubusercontent.com/101548454/160989679-e6cc4538-ad37-4c93-86de-52ce591bee13.png)|![Screenshot (46)](https://user-images.githubusercontent.com/101548454/160991969-c5bee863-d3c8-40ca-97cc-69180e15030c.png)|![Screenshot (44)](https://user-images.githubusercontent.com/101548454/160989713-3d69bb81-f89d-4dbe-8024-14b600bac1f1.png)|![Screenshot (45)](https://user-images.githubusercontent.com/101548454/160989740-878d2fe0-67e6-488a-a933-a683c8da63eb.png)
 
 
 ## Folder Structure
