@@ -2,7 +2,11 @@
 # Stepin_Miniproject
 
 # SDLC LEARNING
-
+---------------------------------------------------------------------------------------------------------------------------
+![Screenshot (42)](https://user-images.githubusercontent.com/101548454/160989679-e6cc4538-ad37-4c93-86de-52ce591bee13.png)|
+![Screenshot (43)](https://user-images.githubusercontent.com/101548454/160989704-60502d03-6c5b-4aa7-96b7-1c10742850b4.png)|
+![Screenshot (44)](https://user-images.githubusercontent.com/101548454/160989713-3d69bb81-f89d-4dbe-8024-14b600bac1f1.png)|
+![Screenshot (45)](https://user-images.githubusercontent.com/101548454/160989740-878d2fe0-67e6-488a-a933-a683c8da63eb.png)
 
 
 ## Folder Structure
@@ -18,7 +22,7 @@ Folder                   | Description
 ## Contributors List and Summary
 PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
 -------|---------------------|----------------|----------------|---------------|-------------|--------------
-99006065 | Bhavya Thotakura  | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | 0        |0  | 0 | 0    
+99006065 |Avinash.B   | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | 0        |0  | 0 | 0    
   
 ## Challenges Faced and How Was It Overcome
 | No. | Challenge | Solution
