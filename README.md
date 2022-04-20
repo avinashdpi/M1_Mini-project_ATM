@@ -18,9 +18,9 @@ Folder                   | Description
 `6_ImagesAndVideos`      | Code Execution Images and Videos
 
 ## Contributors List and Summary
-PS No. |  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------------------|----------------|----------------|---------------|-------------|--------------
-99006065 |Avinash.B   | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | 0        |0  | 0 | 0    
+  Name               |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
+---------------------|----------------|----------------|---------------|-------------|--------------
+Avinash.B   | Entire Project (Requirements, Design, Implementation and TestPlanAndOutput)  | 0        |0  | 0 | 0    
   
 ## Challenges Faced and How Was It Overcome
 | No. | Challenge | Solution
